@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Knox
+- 👋 Hi, I’m Marcus, more commonly Knox
 - 👀 I’m passionate about Web Development  
 - 💼 Currently building Logick, a software service at [logick.live](https://logick.live)  
 - 📫 Reach me at: knox@logick.live or on Discord: knox3039
